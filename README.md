@@ -37,5 +37,5 @@ The input image is given in the last field of the data files, and consists of a 
 </p>
 <h3>Results</h3>
 <p><strong>Training Imaes with key points</strong></p>
-![Index page](https://github.com/Nirajsah17/Image_similarity_search/blob/main/Screenshot%20(715).png)
+<img src='https://github.com/Nirajsah17/Facial_key_point_recognition/blob/main/images/trainpoints.jpeg'width='1000'height='300'/>
 
